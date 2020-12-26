@@ -1,2 +1,2 @@
 # pokemonApp
-home project app
+Android playing app
